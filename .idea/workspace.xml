@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9dc4165-9cb0-4f6b-8dd5-bdf566047ee7" name="Changes" comment="Committing workspace.xml">
+      <change beforePath="$PROJECT_DIR$/src/main/java/comp3111/qsproject/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comp3111/qsproject/Controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shriyan-Shekhar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="93c00378-ea2e-4129-8758-a4d75293c16b" />
+        <option name="url" value="https://github.com/Ipsita-Singh/COMP3111-Project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2f1pyrgSPUJxoQqkatjq8yvqksL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.T21AnalysisTest1.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.comp3111.qsproject in QSProject.executor&quot;: &quot;Coverage&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Shriyan&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shekh/IdeaProjects/COMP3111Final&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91859\IdeaProjects\COMP3111-Project" />
+      <recent name="C:\Users\91859\IdeaProjects\COMP3111-Project\src\main\java\comp3111\qsproject" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="comp3111.qsproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.qsproject in QSProject">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comp3111.qsproject.Application" />
+      <module name="QSProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comp3111.qsproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="QSProject" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="comp3111.qsproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comp3111.qsproject" />
+      <option name="MAIN_CLASS_NAME" value="comp3111.qsproject.ControllerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommendItemTest.getRecentYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QSProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comp3111.qsproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comp3111.qsproject" />
+      <option name="MAIN_CLASS_NAME" value="comp3111.qsproject.RecommendItemTest" />
+      <option name="METHOD_NAME" value="getRecentYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T3AnalysisTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="QSProject" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="comp3111.qsproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comp3111.qsproject" />
+      <option name="MAIN_CLASS_NAME" value="comp3111.qsproject.T3AnalysisTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comp3111.qsproject in QSProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QSProject" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="comp3111.qsproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comp3111.qsproject" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qsproject in QSProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QSProject" />
+      <extension name="coverage" sample_coverage="false" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/comp3111/qsproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="COMP3111Final" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="COMP3111Final" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.T3AnalysisTest" />
+      <item itemvalue="JUnit.ControllerTest" />
+      <item itemvalue="JUnit.RecommendItemTest.getRecentYear" />
+      <item itemvalue="JUnit.qsproject in QSProject" />
+      <item itemvalue="JUnit.comp3111.qsproject in QSProject" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.qsproject in QSProject" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.comp3111.qsproject in QSProject" />
+        <item itemvalue="JUnit.RecommendItemTest.getRecentYear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9dc4165-9cb0-4f6b-8dd5-bdf566047ee7" name="Changes" comment="" />
+      <created>1712978698451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712978698451</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit for T21 Analysis">
+      <option name="closed" value="true" />
+      <created>1713067827360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713067827360</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit for ui.fxml and Controller">
+      <option name="closed" value="true" />
+      <created>1713068020952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713068020952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commits for QSitem and QSList java files">
+      <option name="closed" value="true" />
+      <created>1713073814101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713073814101</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update Controller and QSList">
+      <option name="closed" value="true" />
+      <created>1713074033714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713074033714</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update Files">
+      <option name="closed" value="true" />
+      <created>1713166015015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713166015015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Second Commit: Updated QSList.java and finished creating line chart and bar chart for task2.1">
+      <option name="closed" value="true" />
+      <created>1713166118900</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713166118900</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update Task2.2 in Controller and made changes to T21 Analysis">
+      <option name="closed" value="true" />
+      <created>1713189269503</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713189269503</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Started BarChart Task2.2 and made constructor for it.">
+      <option name="closed" value="true" />
+      <created>1713189372017</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713189372017</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Edited LineChart in T22Analysis, Changed slight code in T21 Analysis and changed Controller error statements">
+      <option name="closed" value="true" />
+      <created>1713260105331</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713260105331</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lab7 final testing">
+      <option name="closed" value="true" />
+      <created>1713274353926</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713274353926</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lab7 testing">
+      <option name="closed" value="true" />
+      <created>1713274486302</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713274486302</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Uploading qs.csv">
+      <option name="closed" value="true" />
+      <created>1713274707062</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713274707062</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated QSItem Property and corresponding T21 and T22 changes. Added a COMBOBOX in Controller.">
+      <option name="closed" value="true" />
+      <created>1713346313835</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713346313835</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added ComboBox for T22 Analysis, which updates ui.fxml, T22 Analysis and Controller">
+      <option name="closed" value="true" />
+      <created>1713360934312</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713360934312</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Edited Controller and T21 Analysis in order to sort LineChart according to the years">
+      <option name="closed" value="true" />
+      <created>1713435234089</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713435234089</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Change to T21 and T22">
+      <option name="closed" value="true" />
+      <created>1713447140601</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713447140601</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Included &quot;All&quot; for country/region in Controller">
+      <option name="closed" value="true" />
+      <created>1713447713681</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713447713681</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Included Null Case in Controller">
+      <option name="closed" value="true" />
+      <created>1713448192722</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713448192722</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Included Null Case in T22">
+      <option name="closed" value="true" />
+      <created>1713448659025</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713448659025</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Finished the constructor of T1Analysis.java">
+      <option name="closed" value="true" />
+      <created>1713504919146</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713504919146</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Finished creating the pie chart data">
+      <option name="closed" value="true" />
+      <created>1713508294096</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1713508294096</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Finished implementing the update() function of RecommendItem.class and the constructor of T3Analysis.java">
+      <option name="closed" value="true" />
+      <created>1713521715960</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713521715960</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added the &quot;All&quot; functionality in T3Analysis.class constructor and fixed bugs related to string comparison">
+      <option name="closed" value="true" />
+      <created>1713605321172</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1713605321172</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Completed the initialization, clearing, and recommend actions of T3 in Controller.java">
+      <option name="closed" value="true" />
+      <created>1713605689278</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713605689278</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge Commit">
+      <option name="closed" value="true" />
+      <created>1713697255016</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1713697255016</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added Javadoc to Controller, T3Analysis and RecommendItem">
+      <option name="closed" value="true" />
+      <created>1713779353415</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1713779353415</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Committed workspace.xml">
+      <option name="closed" value="true" />
+      <created>1713788565599</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1713788565599</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Completed testing for T3Analysis">
+      <option name="closed" value="true" />
+      <created>1713855953168</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1713855953168</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Commited workspace.xml">
+      <option name="closed" value="true" />
+      <created>1713926430431</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1713926430431</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Commited workspace.xml">
+      <option name="closed" value="true" />
+      <created>1714025919982</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1714025919982</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Removed some comments in Controller.java">
+      <option name="closed" value="true" />
+      <created>1714548027605</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1714548027605</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Removed some comments in Controller.java">
+      <option name="closed" value="true" />
+      <created>1714548050575</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1714548050575</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Committing workspace.xml">
+      <option name="closed" value="true" />
+      <created>1714896932619</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1714896932619</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started BarChart Task2.2 and made constructor for it." />
+    <MESSAGE value="Edited LineChart in T22Analysis, Changed slight code in T21 Analysis and changed Controller error statements" />
+    <MESSAGE value="Lab7 final testing" />
+    <MESSAGE value="Lab7 testing" />
+    <MESSAGE value="Uploading qs.csv" />
+    <MESSAGE value="Updated QSItem Property and corresponding T21 and T22 changes" />
+    <MESSAGE value="Updated QSItem Property and corresponding T21 and T22 changes. Added a COMBOBOX in Controller." />
+    <MESSAGE value="Added ComboBox for T22 Analysis, which updates ui.fxml, T22 Analysis and Controller" />
+    <MESSAGE value="Edited Controller and T21 Analysis in order to sort LineChart according to the years" />
+    <MESSAGE value="Change to T21 and T22" />
+    <MESSAGE value="Included &quot;All&quot; for country/region in Controller" />
+    <MESSAGE value="Included Null Case in Controller" />
+    <MESSAGE value="Included Null Case in T22" />
+    <MESSAGE value="Finished the constructor of T1Analysis.java" />
+    <MESSAGE value="Finished creating the pie chart data" />
+    <MESSAGE value="Finished implementing the update() function of RecommendItem.class and the constructor of T3Analysis.java" />
+    <MESSAGE value="Added the &quot;All&quot; functionality in T3Analysis.class constructor and fixed bugs related to string comparison" />
+    <MESSAGE value="Completed the initialization, clearing, and recommend actions of T3 in Controller.java" />
+    <MESSAGE value="Merge Commit" />
+    <MESSAGE value="Added Javadoc to Controller, T3Analysis and RecommendItem" />
+    <MESSAGE value="Committed workspace.xml" />
+    <MESSAGE value="Completed testing for T3Analysis" />
+    <MESSAGE value="Commited workspace.xml" />
+    <MESSAGE value="Removed some comments in Controller.java" />
+    <MESSAGE value="Committing workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing workspace.xml" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.AssertionError" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/comp3111/qsproject/T3AnalysisTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/comp3111/qsproject/T3Analysis.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COMP3111Final$T21AnalysisTest1.ic" NAME="T21AnalysisTest1 Coverage Results" MODIFIED="1713273851351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>comp3111.qsproject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/COMP3111_Project$RecommendItemTest.ic" NAME="RecommendItemTest Coverage Results" MODIFIED="1714316235395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>comp3111.qsproject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/COMP3111_Project$ControllerTest_testRecommend.ic" NAME="ControllerTest.testRecommend Coverage Results" MODIFIED="1714622771542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>comp3111.qsproject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/COMP3111_Project$RecommendItemTest_updatecaseRecentRank.ic" NAME="RecommendItemTest.updatecaseRecentRank Coverage Results" MODIFIED="1714311712257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>comp3111.qsproject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/COMP3111_Project$ControllerTest.ic" NAME="ControllerTest Coverage Results" MODIFIED="1714628987226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>comp3111.qsproject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/COMP3111Testing$comp3111_qsproject_in_QSProject.ic" NAME="comp3111.qsproject in QSProject Coverage Results" MODIFIED="1713697692675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>comp3111.qsproject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Work$comp3111_qsproject_in_QSProject.ic" NAME="comp3111.qsproject in QSProject Coverage Results" MODIFIED="1714630754605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>comp3111.qsproject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/COMP3111_Project$T3AnalysisTest.ic" NAME="T3AnalysisTest Coverage Results" MODIFIED="1714301429625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>comp3111.qsproject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/COMP3111_Project$qsproject_in_QSProject.ic" NAME="qsproject in QSProject Coverage Results" MODIFIED="1714659876276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
